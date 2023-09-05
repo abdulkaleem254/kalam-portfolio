@@ -600,6 +600,12 @@ footer>.row div>i:hover {
         text-align: center;
     }
 
+    .service-box{
+        display: block;
+    }
+    .service-box>div{
+        margin: 15px auto;
+    }
     .skill-main-box {
         display: block;
         padding-bottom: 25px;
